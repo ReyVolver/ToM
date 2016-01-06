@@ -1,0 +1,39 @@
+html, body {
+  height: 100%; }
+
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  display: table;
+  font-weight: 100;
+  font-family: 'Lato'; }
+
+.container {
+  text-align: center;
+  display: table-cell;
+  vertical-align: middle; }
+
+.content {
+  text-align: center;
+  display: inline-block; }
+
+.title {
+  font-size: 96px; }
+
+.button-big {
+  padding: 15px 20px;
+  width: 30%;
+  font-size: 20px;
+  border: none;
+  border-radius: 10px; }
+
+.button-ps4 {
+  background: #003087;
+  color: #fff; }
+
+.button-xbox {
+  background: #52b043;
+  color: #fff; }
+
+/*# sourceMappingURL=app.css.map */
